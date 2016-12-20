@@ -1,0 +1,6 @@
+myscrapy/
+scrapy-examples-master/
+venv/
+.gitignore
+dubanchart/dubanchart/spiders/*.pyc
+dubanchart/dubanchart/*.pyc

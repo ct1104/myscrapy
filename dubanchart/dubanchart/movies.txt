@@ -1,0 +1,38 @@
+{"score": "7.1", "moviename": "幽冥 Spectral"}
+{"score": "8.7", "moviename": "英雄本色"}
+{"score": "8.4", "moviename": "暖暖内含光 Eternal Sunshine of the Spotless Mind"}
+{"score": "9.4", "moviename": "辛德勒的名单 Schindler's List"}
+{"score": "8.7", "moviename": "谍影重重3 The Bourne Ultimatum"}
+{"score": "9.1", "moviename": "星际穿越 Interstellar"}
+{"score": "9.0", "moviename": "完美的世界 A Perfect World"}
+{"score": "8.7", "moviename": "菊次郎的夏天 菊次郎の夏"}
+{"score": "8.9", "moviename": "当幸福来敲门 The Pursuit of Happyness"}
+{"score": "8.4", "moviename": "夜行动物 Nocturnal Animals"}
+{"score": "8.8", "moviename": "侧耳倾听 耳をすませば"}
+{"score": "8.8", "moviename": "勇敢的心 Braveheart"}
+{"score": "7.6", "moviename": "降临 Arrival"}
+{"score": "8.9", "moviename": "雨中曲 Singin' in the Rain"}
+{"score": "7.9", "moviename": "奇异博士 Doctor Strange"}
+{"score": "8.9", "moviename": "海边的曼彻斯特 Manchester by the Sea"}
+{"score": "9.2", "moviename": "爱乐之城 La La Land"}
+{"score": "8.0", "moviename": "神奇动物在哪里 Fantastic Beasts and Where to Find Them"}
+{"score": "7.6", "moviename": "附属美丽 Collateral Beauty"}
+{"score": "7.8", "moviename": "星球大战外传：侠盗一号 Rogue One: A Star Wars Story"}
+{"score": "7.0", "moviename": "错乱的一代 ディストラクション・ベイビーズ"}
+{"score": "7.7", "moviename": "海洋奇缘 Moana"}
+{"score": "7.6", "moviename": "是爱非友 Esteros"}
+{"score": "7.6", "moviename": "罗曼蒂克消亡史"}
+{"score": "7.1", "moviename": "昭和64年 后篇 64 ロクヨン 後編"}
+{"score": "7.6", "moviename": "我在故宫修文物"}
+{"score": "6.3", "moviename": "办公室圣诞派对 Office Christmas Party"}
+{"score": "8.8", "moviename": "血战钢锯岭 Hacksaw Ridge"}
+{"score": "7.4", "moviename": "美国甜心 American Honey"}
+{"score": "8.1", "moviename": "毕业会考 Bacalaureat"}
+{"score": "3.8", "moviename": "惊天破"}
+{"score": "8.0", "moviename": "早死早投胎之地狱摇滚篇 TOO YOUNG TO DIE！ 若くして死ぬ"}
+{"score": "7.5", "moviename": "斯诺登 Snowden"}
+{"score": "7.2", "moviename": "会计刺客 The Accountant"}
+{"score": "8.6", "moviename": "比海更深 海よりもまだ深く"}
+{"score": "7.7", "moviename": "单身日记：好孕来袭 Bridget Jones's Baby"}
+{"score": "7.3", "moviename": "豪勇七蛟龙 The Magnificent Seven"}
+{"score": "8.4", "moviename": "濑户内海 セトウツミ"}
