@@ -1,2 +1,3 @@
 dubanchart:从https://movie.douban.com/chart爬取最新电影排行榜，并将电影按最高分排序，结果保存在文件data_utf8.json
 filedownload:从http://networkradius.com/freeradius-documentation/提取pdf的链接，然后下载，文件保存在目录spiders/full下
+crawlimg:从http://www.woyaogexing.com/touxiang/weixin/下载图像
