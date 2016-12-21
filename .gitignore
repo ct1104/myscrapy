@@ -2,5 +2,8 @@ myscrapy/
 scrapy-examples-master/
 venv/
 .gitignore
+*.pyc
 dubanchart/dubanchart/spiders/*.pyc
 dubanchart/dubanchart/*.pyc
+filedownload/filedownload/*.pyc
+filedownload/filedownload/spiders/*.pyc
