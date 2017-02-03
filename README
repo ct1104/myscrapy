@@ -1,5 +1,6 @@
 dubanchart:从https://movie.douban.com/chart爬取最新电影排行榜，并将电影按最高分排序，结果保存在文件data_utf8.json
 filedownload:从http://networkradius.com/freeradius-documentation/提取pdf的链接，然后下载，文件保存在目录spiders/full下
 crawlimg:从http://www.woyaogexing.com/touxiang/weixin/下载图像
-scrvpnso.py:从https://vpnso.com/account/ssh_detail.php?ID=22143上抓取代理服务器的列表，需携带cookie
+vpnso/scrvpnso_v1.py:从https://vpnso.com/account/ssh_detail.php?ID=22143上抓取代理服务器的列表，需携带cookie
+vpnso/scrvpnso_v2.py:是v1版本的增强版本，实现了模拟登录
 
